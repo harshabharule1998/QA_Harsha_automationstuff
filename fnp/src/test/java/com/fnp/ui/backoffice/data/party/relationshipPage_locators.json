@@ -1,0 +1,22 @@
+{
+
+	"partyManagementText" : "div[id='main-content'] div div h5",
+ 	"partyTypeDropdownTxt" : "#partyTypeId",
+
+	"partyTypeDropdownMenu" : "[role='listbox'] li",
+	"typePartyId" : "input[id='partyId']",
+	"clickOnApply" : "button[type='submit']",
+	"relationshipTab" :	"[path='relations']",
+	"clickOnIndiviualPartyId" : "[filter='[object Object]'] tbody a",
+	"clickOnRelatiosTablink" : "a[path='relations']",
+	"clickOnDots" : ".list-page table tbody tr:nth-child(1) td button",
+	"newRelationshipTab" : "a[aria-label='New Relationship']",
+	"clickOnNewRelationshipTab" : "a[aria-label='New Relationship']",
+	"clickOnView" : "#long-menu div ul a ",
+	"relationshipLabel" : "div[id='main-content'] div h5",
+	"editButton" : ".simple-form button",
+	"deleteButton" : ".simple-form button",
+	"existDeleteButton" : ".simple-form button span path",
+	"existEditButton" : ".simple-form button span path"
+	
+}

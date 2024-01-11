@@ -1,0 +1,29 @@
+[{
+		"capacity": 120,
+		"configName": "birthday",
+		"deliveryMode": "Hand Delivered",
+		"fromDate": "11-01-2022",
+		"geoGroupId": "1",
+		"geoId": "2",
+		"thruDate": "22-02-2022",
+		"vendorId": "FC_101",
+		"vendorType": "FC"
+	},
+	[{
+		"capacity": 30,
+		"configName": "Holi",
+		"fromDate": "11-02-2022",
+		"id": "61cae67961f5400500bacb95",
+		"isGlobal": "false",
+		"thruDate": "22-02-2022"
+	}],
+	[{
+		"capacity": 30,
+		"configName": "Global",
+		"deliveryMode": "hd",
+		"geoGroupId": "Pune",
+		"geoId": "India",
+		"isGlobal": "true",
+		"vendorId": "FC_104"
+	}]
+]

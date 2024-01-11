@@ -1,0 +1,9 @@
+{
+	"loginText": "Login",
+	"invlaidUsername": "Incorrect Email Address or Password",
+	"forgotPassword": "Forgot Password?",
+	"resetPassword": "Send Reset Password Link",
+	"backToLogin": "Back to Login",
+	"emailLabel": "Email",
+	"passwordLabel": "Password"
+}

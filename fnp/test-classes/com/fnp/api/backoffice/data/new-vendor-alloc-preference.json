@@ -1,0 +1,17 @@
+{
+    "baseGeoId": "411001",
+    "configName": "Diwali",
+    "deliveryMode": "Digital",
+    "fromDate": "2021-10-01T01:40:49",
+    "geoGroupId": "1",
+    "geoId": "2",
+    "quotas": [
+        {
+            "pgId": "3",
+            "value": 4
+        }
+    ],
+    "thruDate": "2022-12-16T19:50:56.064Z",
+    "vendorId": "FC_101",
+    "vendorType": "FC"
+}

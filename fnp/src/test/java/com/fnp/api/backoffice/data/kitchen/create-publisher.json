@@ -1,0 +1,11 @@
+{
+  "publisherConfigs": [
+    {
+      "alias": "TEST",
+      "fieldStatus": "ACTIVE",
+      "productAttributeFieldId": "U_00002"
+    }
+  ],
+  "publisherId": null,
+  "publisherName": "wintervibes"
+}

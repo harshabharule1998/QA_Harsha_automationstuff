@@ -1,0 +1,6 @@
+{
+	"titleText" : "Party Management",
+	"partySearchNavigationUrl" : "parties/search",
+	"partyCreateUrl" : "parties/create",
+	"lablePartyIdText" : "P_01171"
+}

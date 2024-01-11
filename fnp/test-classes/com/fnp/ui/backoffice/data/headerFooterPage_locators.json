@@ -1,0 +1,23 @@
+{
+	"titleText": "[class='MuiToolbar-root MuiToolbar-regular'] p",
+	"dashboardText": "[class*='MuiToolbar-root-'] a:nth-child(3)",
+	"quotation": "#main-content div div",
+	"userProfileDropdown": "[data-at-id='userProfile']",
+	"userProfileEmail": "div#customized-menu:not([aria-hidden='true']) ul h6:nth-child(1)",
+	"UserProfileSignOut": "[data-at-id='btnLogout'] span",
+	"helpMenu": "[data-at-id='help']",
+	"notificationIcon": "[data-at-id='notification']",
+	"quickLinks": "[data-at-id='quicklink']",
+	"quickLinkPopupTxt": "div:nth-child(3) ul h6",
+	"switchMenu": "[data-at-id='switchMenu']",
+	"logo": "[id='FNP_New_Logo_']",
+	"copyRight": "[id='root'] p",
+	"userProfileTxt": "[data-at-id='userProfile'] div span",
+	"userProfileIcon": "[data-at-id='userProfile'] svg path",
+	"userProfileDropDownIcon": "path[d*='M7']",
+	"userProfilePopupTxt": "div#customized-menu:not([aria-hidden='true']) ul h6",
+	"loginButton": "[data-at-id='loginButton'] span",
+	"megaMenuList": "div:nth-child(3) [class*='MuiMenu-list-'] a",
+	"galleriaMenu": "#main-content h5"
+	
+}

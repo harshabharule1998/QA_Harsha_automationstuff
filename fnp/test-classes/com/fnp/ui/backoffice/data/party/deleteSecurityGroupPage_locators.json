@@ -1,0 +1,23 @@
+{
+	"partyManagementText" : "div[id='main-content'] div div h5",
+ 	"partyTypeDropdownTxt" : "#partyTypeId",
+	"partyTypeDropdownMenu" : "[role='listbox'] li",
+	"typePartyId" : "input[id='partyId']",
+	"apply" : "button[type='submit']",
+	"typePartyIds" : "[data-at-id='P_01157_show']" , 
+	"editIcon" : "[class='ra-field ra-field-undefined'] svg ",
+	"usernameTab" : "[role='tablist'] a:nth-child(2)",
+	"threeDots" : ".list-page table tbody tr:nth-child(1) td button",
+	"editOption" : "[title='Edit']",
+	"permissionOption" : "[title='Permissions']",
+	"assignOption" : "[title='Assign Security Group']",
+	"assignSecurityLabel" : "#main-content div h5",
+	"assignSecurityButton" : "[aria-label='ASSIGN USER LOGIN'] span span",
+	"threeDotOption" : ".list-page table tbody tr:nth-child(1) td button",
+	"deleteOption" : "[title='Delete']",
+	"cancelActionButton" : "[data-at-id='cancelButton'] span",
+	"deleteActionButton" : "[data-at-id='actionButton'] span",
+	"crossIcon" : "h2 svg[focusable='false']",
+	"label" : "[class='ra-input ra-input-undefined'] div span",
+	"partyLabel" : ".simple-form h5"
+	}

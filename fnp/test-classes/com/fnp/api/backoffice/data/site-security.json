@@ -1,0 +1,13 @@
+{
+    "adminAccountSharing": "Yes ",
+    "lockOutTime": 23,
+    "loginOTPExpirationTimeFrame": 23,
+    "maximumAllowedPasswordRecoveryAttemptsPerHour": 1,
+    "maximumLoginAttemptsBeforeLockout": 90,
+    "maximumPasswordLength": 9,
+    "minimumPasswordLength": 7,
+    "numberOfCharacterClassesForPassword": ["3"],
+    "passwordLifetime": 7,
+    "passwordRecoveryLinkExpiration": 9,
+    "passwordResetProtectionType": " By Email Address Only "
+}

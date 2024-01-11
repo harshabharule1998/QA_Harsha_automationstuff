@@ -1,0 +1,23 @@
+{
+    "andConditions": [
+        {
+            "orConditions": [
+                {
+                    "fieldId": "U_00002",
+                    "fieldOperand": "Plant",
+                    "fieldOperator": "CONTAINS"
+                }
+            ]
+        }
+    ],
+    "campaign": {
+        "campaignDomainId": "fnp.com",
+        "currencyId": "INR",
+        "frequency": "HOURLY",
+        "geoId": "india",
+        "name": "Christmas",
+        "publisherId": "P_01423",
+        "repeat": "",
+        "time": ""
+    }
+}

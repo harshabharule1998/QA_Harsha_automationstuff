@@ -1,0 +1,16 @@
+{
+    "action": "populateproduct",
+    "categoryId": "184375",
+    "config": {
+        "consideration": "category",
+        "deliveryModes": {
+            "courier": 3,
+            "digital": 5,
+            "handDelivery": 1,
+            "international": 1
+        },
+        "fromDate": "2022-01-12T09:19:21.33",
+        "lookbackperiod": 10,
+        "thruDate": "2022-03-12T09:19:21.33"
+    }
+}

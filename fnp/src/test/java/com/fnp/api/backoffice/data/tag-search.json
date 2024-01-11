@@ -1,0 +1,17 @@
+[
+	{
+    	 "fieldName": "tagId",
+         "fieldValue": "colombia",
+         "operatorName": "EqualTo"
+    },
+    {
+         "fieldName": "tagName",
+         "fieldValue": "colombia",
+         "operatorName": "EqualTo"
+    },
+    {
+         "fieldName": "tagTypeId",
+         "fieldValue": "G",
+         "operatorName": "EqualTo"
+    }
+]

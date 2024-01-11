@@ -1,0 +1,6 @@
+user,email,security_group,phone
+Test User 1,test1@fnp.com,S_10000 ,2222244431
+Test User 2,test2@fnp.com,"S_10201, S_10301",2222244432
+Test User 3,test3@fnp.com,S_10000,2222244433
+Test User 4,test4@fnp.com,S_10000,2222244434
+Test User 5,test5@fnp.com,S_10000,2222244435

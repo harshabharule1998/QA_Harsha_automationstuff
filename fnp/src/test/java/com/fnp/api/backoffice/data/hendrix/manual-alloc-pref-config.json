@@ -1,0 +1,48 @@
+[
+    {
+        "baseGeoId": "411001",
+        "configName": "diwali",
+        "deliveryMode": "hd",
+        "fromDate": "21-12-2021",
+        "geoGroupId": "Pune",
+        "geoId": "India",
+        "pgId": "4",
+        "quotas": [
+            {
+                "value": 70,
+                "vendorId": "FC_102"
+            }
+        ],
+        "thruDate": "28-12-2021",
+        "vendorType": "FC"
+    },
+    {
+	    "configName": "holi",
+	    "fromDate": "28-12-2021",
+	    "quotas": [
+	        {
+	            "value": 33,
+	            "vendorId": "FC_106"
+	        }
+	    ],
+	    "thruDate": "30-12-2021"
+	},
+	{
+        "baseGeoId": "411001",
+        "configName": "diwali",
+        "deliveryMode": "hd",
+        "fromDate": "21-12-2021",
+        "geoGroupId": "Pune",
+        "geoId": "India",
+        "pgId": "4",
+        "quotas": [
+            {
+                "value": 30,
+                "vendorId": "Carrier_102"
+            }
+        ],
+        "thruDate": "25-12-2021",
+        "vendorId": "FC_102",
+        "vendorType": "CR"
+    }
+]

@@ -1,0 +1,33 @@
+{
+
+	"partyManagementText" : "div[id='main-content'] div div h5",
+ 	"partyTypeDropdownTxt" : "#partyTypeId",
+	"partyTypeDropdownMenu" : "[role='listbox'] li",
+	"typePartyId" : "input[id='partyId']",
+	"apply" : "button[type='submit']",
+	"relationshipTab" :	"[path='relations']",
+	"indiviualPartyId" : "[filter='[object Object]'] tbody a",
+	"partyLabel" : ".simple-form h5",
+	"dots" : ".list-page table tbody tr:nth-child(1) td button",
+	"clickOnEdit" : "[title='Edit']",
+	"relationshipLabel" : "div[id='main-content'] div h5",
+	"newRelationship" : "[aria-label='New Relationship'] span",
+	"relatiosTablink" : "a[path='relations']",
+	"deleteOption" : "a[title='Delete'] div",
+	"actionCancel" : "[data-at-id='cancelButton'] span",
+	"actionDelete" : "[data-at-id='actionButton'] span",
+	"scroll" : "div[role='button'] ",
+	"view" : "#long-menu div ul a" ,
+	"deleteIcon" : "[class='ra-input ra-input-undefined'] button span",
+	"toDate" : "input[value='']",
+	"time" : "input[value='']",
+	"label" : ".simple-form label span" ,
+	"fromDateLabel" : "[data-testid='CustomDateTimeInput'] label",
+	"toDateLabel" : "[data-testid='CustomDateTimeInput'] label",
+	"labelPartyTo" : ".simple-form span",
+	"labelTheRoleOf" : ".simple-form span",
+	"tester" : "[value='tester']",
+	"cancelButton" : "[aria-label='Cancel'] span",
+	"updateButton" : "[type='submit'] "
+	
+	}

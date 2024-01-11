@@ -1,0 +1,14 @@
+{
+	"titleText" : "Party Management",
+	"lablePartyIdText" : "P_01171",
+	"usernamesTabText" : "USERNAMES",
+	"partyIdLabelText" : "P_01171",
+	"editText" : "Edit",
+	"assignSecurityGroupText" : "Assign Security Group",
+	"permissionsText" : "Permissions",
+	"assignSecGrpLabelText" : "Assign Security Group",
+	"deleteText" : "Delete",
+	"securityGroupIdText" : "Security Group Id",	
+	"securityGroupNameText" : "Security Group Name",
+	"assignUserLoginLabelText" : "Assign User Login"
+}

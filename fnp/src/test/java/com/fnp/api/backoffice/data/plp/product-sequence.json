@@ -1,0 +1,20 @@
+{
+	"sequence": [
+		{
+			"productId": "CAKE10042",
+			"sequence": 1
+		},
+		{
+			"productId": "EXP29989",
+			"sequence": 2
+		},
+		{
+			"productId": "EXP29988",
+			"sequence": 3
+		}
+	],
+	"filterAction": [
+		"CAKE10042",
+		"EXP29989"
+	]
+}

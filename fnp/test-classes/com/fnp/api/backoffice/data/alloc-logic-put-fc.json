@@ -1,0 +1,18 @@
+[
+    {
+        "baseGeoId": "411001",
+        "configName": "Birthday",
+        "deliveryMode": "HD",
+        "factorCapacityDone": 20,
+        "factorDistance": 30, 
+        "factorFCRating": 40,
+        "factorManualRating": 50,
+        "factorPrice": 60,
+        "fromDate": "13-12-2022",
+        "geoGroupId": "Mumbai",
+        "geoId": "India",
+        "id": "",
+        "pgId": "3",
+        "thruDate": "22-12-2022"
+    }
+]

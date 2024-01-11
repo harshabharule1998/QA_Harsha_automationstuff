@@ -1,0 +1,50 @@
+
+def totalTests
+def totalPass
+def totalFail
+
+pipeline {
+
+    agent {
+        label "${agent}"
+    }
+    stages {
+        stage ('checkout git repo') {
+          steps{
+         checkout([$class: 'GitSCM', branches: [[name: '*/develop']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: 'kapilsa-gitlab', url: 'https://git.fnp.com/qa/qa-automation.git']]])
+            }
+         }
+
+        stage ('Build & Analysis'){
+            steps {
+
+               sh '''
+               mvn test -Dtest=HendrixAPITestRunner
+               ls
+               '''
+            }
+        }
+                
+    }
+
+    post {
+        always {
+				
+				script {
+					def resultText = readFile file: 'target/surefire-reports/results-json.txt'
+					def resultJson = readJSON text: resultText
+					totalTests = resultJson['scenarios']
+					totalPass = resultJson['passed']
+					totalFail = resultJson['failed']
+				}
+				emailext attachmentsPattern: 'target/surefire-reports/extent-reports/report.zip',
+	            body: "Total Scenarios : ${totalTests} <br> Passed : ${totalPass} <br> Failed : ${totalFail} <br><br> Please find attachment for reports. <br><br> For more details check : ${env.BUILD_URL}",
+				mimeType: 'text/html',
+	            subject: "Hendrix API Regression Build # ${env.BUILD_NUMBER} - ${currentBuild.currentResult}",
+	            from: "noreply-jenkins@fnp.com",
+			    replyTo: "noreply-jenkins@fnp.com",
+			    to: "$TO_LIST"
+
+		}
+    }
+}

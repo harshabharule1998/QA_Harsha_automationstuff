@@ -1,0 +1,27 @@
+[
+  	{
+		"fieldName": "sourceUrl",
+		"fieldValue": "fnp.com",
+		"operatorName": "EqualTo"
+	},
+	{
+		"fieldName": "entityType",
+		"fieldValue": "Product",
+		"operatorName": "EqualTo"
+	},
+	{
+		"fieldName": "redirectType",
+		"fieldValue": "302",
+		"operatorName": "EqualTo"
+	},
+	{
+		"fieldName": "targetUrl",
+		"fieldValue": "fnp.com/gifts",
+		"operatorName": "EqualTo"
+	},
+	{
+		"fieldName": "isEnabled",
+		"fieldValue": true,
+		"operatorName": "EqualTo"
+	}
+]

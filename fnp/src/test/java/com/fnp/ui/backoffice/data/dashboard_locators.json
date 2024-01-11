@@ -1,0 +1,5 @@
+{
+   "switchMenu" : "[data-at-id='switchMenu']",
+   "galleriaMenu" : "[role='menuitem'][href='#/galleria/v1/categories']",
+   "partyMenu" : "[role='menuitem'][href='#/parties/search']"
+} 

@@ -1,0 +1,15 @@
+{
+"lablePartyIdText" : "P_01157",
+"realtionshipTypeText" : "RELATIONSHIP",
+"newRelationshipText"  : "New Relationship",
+"relationshipLabelText" : "Relationship",
+"isAText" : "is A",
+"inTheRoleOfText" : "In the Role of",
+"partyIdText" : "Party ID",
+"ofPartyIdText" : "Of Party",
+"fromDateText" : "From Date",
+"toDateText" : "To Date" ,
+"partyToTexts" : "Party to",
+"inTheRoleOfTexts" : "In the Role of"
+
+}

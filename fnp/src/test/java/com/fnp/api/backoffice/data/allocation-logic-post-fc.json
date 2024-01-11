@@ -1,0 +1,15 @@
+{
+    "baseGeoId": "411014",
+    "configName": "Rakshabandhan",
+    "deliveryMode": "Courier",
+    "factorCapacityDone": 84,
+    "factorDistance": 100,
+    "factorFCRating": 30,
+    "factorManualRating": 25,
+    "factorPrice": 60,
+    "fromDate": "10-12-2022",
+    "geoGroupId": "Pune",
+    "geoId": "India",
+    "pgId": "3",
+    "thruDate": "11-12-2022"
+}

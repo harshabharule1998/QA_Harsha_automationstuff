@@ -1,0 +1,7 @@
+{
+    "permissions": [
+        "P_FEED_ACTL"
+    ],
+    "securityGroupCode": "CUST",
+    "securityGroupName": "Customer"
+}

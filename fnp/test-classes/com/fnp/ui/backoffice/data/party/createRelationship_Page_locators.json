@@ -1,0 +1,47 @@
+{
+
+	"partyManagementText" : "div[id='main-content'] div div h5",
+ 	"partyTypeDropdownTxt" : "#partyTypeId",
+	"partyTypeDropdownMenu" : "[role='listbox'] li",
+	"typePartyId" : "input[id='partyId']",
+	"apply" : "button[type='submit']",
+	"relationshipTab" :	"[path='relations']",
+	"indiviualPartyId" : "[filter='[object Object]'] tbody a",
+	"partyLabel" : ".simple-form h5",
+	"dots" : ".list-page table tbody tr:nth-child(1) td button",
+	"relationshipLabel" : "div[id='main-content'] div h5",
+	"relationsTabLink" : "a[path='relations']",
+	"newRelationshipTab" : "[aria-label='New Relationship'] span",
+	"fromDateLabel" : "[data-testid='CustomDateTimeInput'] label",
+	"toDateLabel" : "[data-testid='CustomDateTimeInput'] label",
+	"labelPartyTo" : ".simple-form span",
+	"labelTheRoleOf" : ".simple-form span",
+	"label" : ".simple-form label span",
+	"cancelButton" : "[aria-label='Cancel'] span",
+	"createButton" : "[aria-label='CREATE'] span",
+	"scroll" : "[aria-label='CREATE'] span",
+	"clickOnRole" : "[name='inTheRoleOfPartyTo']",
+	"isA"  : "[id='isA']",
+	"fromPartyId" : "[data-at-id='fromThePartyId'] label",
+	"fromDate" : "[data-testid='CustomDateTimeInput'] label",
+	"toDate" : "[data-testid='CustomDateTimeInput'] label",
+	"tooltip" : "[class='MuiFormHelperText-root-569']",
+	"tester" : "li[id*='item-0']",
+	"vendor" : "li[id*='item-1']",
+	"Id" : "li[data-option-index='0']",
+	"clickOnRolePartyOf"  : "div [name='inTheRoleOfFromTheParty']",
+	"date" : "[name='date']",
+	"confirmationContinueButton" : "[data-at-id='actionButton'] span",
+	"optionB2C" : "li[id*='item-0']",
+	"confirmationCancelButton" : "[data-at-id='cancelButton']",
+	"employeeOption" : "li[id*='item-2']",
+	"employeeOptionIsa" : "li[id*='item-0']"
+	
+
+
+	
+	
+	
+	
+	
+	}

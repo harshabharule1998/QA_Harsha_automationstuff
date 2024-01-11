@@ -1,0 +1,19 @@
+{
+    "applyToBaseGeoIds": [
+        "411001"
+    ],
+    "applyToPgIds": [
+        "4"
+    ],
+    "configName": "Holi",
+    "fromDate": "12-02-2022",
+    "quotas": [
+        {
+            "value": 90,
+            "vendorId": "Carrier_102"
+        }
+    ],
+    "sourceRuleId": "61b85f380ebf632ffedea4e1",
+    "thruDate": "15-03-2022",
+    "vendorType": "CR"
+}

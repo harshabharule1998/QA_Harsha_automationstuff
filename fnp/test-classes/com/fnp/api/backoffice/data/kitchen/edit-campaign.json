@@ -1,0 +1,20 @@
+{
+
+    "andConditions": [
+        {
+            "orConditions": [
+                {
+                    "fieldId": "U_00002",
+                    "fieldOperand": "Plant",
+                    "fieldOperator": "CONTAINS"
+                }
+            ]
+        }
+    ],
+    "campaign": {
+        "frequency": "HOURLY",
+        "name": "test1",
+        "repeat": "",
+        "time": ""
+	}
+}

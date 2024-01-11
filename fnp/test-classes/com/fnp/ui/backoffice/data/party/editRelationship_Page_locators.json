@@ -1,0 +1,41 @@
+{
+
+	"partyManagementText" : "div[id='main-content'] div div h5",
+ 	"partyTypeDropdownTxt" : "#partyTypeId",
+
+	"partyTypeDropdownMenu" : "[role='listbox'] li",
+	"typePartyId" : "input[id='partyId']",
+	"clickOnApply" : "button[type='submit']",
+	"relationshipTab" :	"[path='relations']",
+	"clickOnIndiviualPartyId" : "[filter='[object Object]'] tbody a",
+	"partyLabel" : ".simple-form h5",
+	"clickOnDots" : ".list-page table tbody tr:nth-child(1) td button",
+	"clickOnEdit" : "[title='Edit']",
+	"relationshipLabel" : "div[id='main-content'] div h5",
+	"clickOnRelatiosTablink" : "a[path='relations']",
+	"label" : ".simple-form label span" ,
+	"fromDateLabel" : "[data-testid='CustomDateTimeInput'] label",
+	"toDateLabel" : "[data-testid='CustomDateTimeInput'] label",
+	"labelPartyTo" : ".simple-form span",
+	"labelTheRoleOf" : ".simple-form span",
+	"tester" : "[value='tester']",
+	"cancelButton" : "[aria-label='Cancel'] span",
+	"updateButton" : "[type='submit'] ",
+	"scroll" : "[type='submit'] ",
+	"actionContinueButton" : "[data-at-id='actionButton']",
+	"actionCancelButton" : "[data-at-id='cancelButton']",
+	"confirmationMessage" : "[role='alert']",
+	"clickOnView" : "#long-menu div ul a ",
+	"editButton" : ".simple-form button",
+	"deleteButton" : ".simple-form button span path",
+	"clickInRoleOf" : "[name='inTheRoleOfPartyTo']",
+	"clickIsA" : "[id='isA']",
+	"clickFromPartyid" : "[spellcheck='false']",
+	"clickInTheRoleof" : "[name='inTheRoleOfFromTheParty']"	,
+	"clickOnSample" : "[role='option']",
+	"clickTooltip" : "[aria-autocomplete='list'] p" ,
+	"clickCreate" : "li[id*='item-5']"
+	
+	
+	
+	}

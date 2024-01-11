@@ -1,0 +1,140 @@
+{
+	"users": {
+		"superAdmin" : {
+		    "firstName": "Automation44",
+		    "lastName": "User44",
+		    "confirmPassword": "Auto1234$",
+		    "password": "Auto1234$",
+		    "email": "automation44@fnp.com",
+		    "phonenumber": "9224268837"
+		},
+		"tagManager" : {
+		    "firstName": "tag",
+		    "lastName": "manager",
+		    "confirmPassword": "Password@123",
+		    "password": "Password@123",
+		    "email": "TagMgrAuto@fnp.com",
+		    "phonenumber": "9891298900"
+		},
+		"tagAgent" : {
+		    "confirmPassword": "Password@123",
+		    "email": "TagAgntEAuto@fnp.com",
+		    "firstName": "tag",
+		    "lastName": "agent",
+		    "password": "Password@123",
+		    "phonenumber": "9891298911"
+		},
+		"tagAgentView" : {
+		    "confirmPassword": "Password@123",
+		    "email": "TagAgntVAuto@fnp.com",
+		    "firstName": "tag",
+		    "lastName": "agentview",
+		    "password": "Password@123",
+		    "phonenumber": "9891298912"
+		},
+		"superAdminQA" : {
+		    "confirmPassword": "Password@123",
+		    "email": "fnp",
+		    "firstName": "",
+		    "lastName": "",
+		    "password": "Password@123",
+		    "phonenumber": ""
+		},
+		"categoryManagerQA" : {
+		    "confirmPassword": "Password@123",
+		    "email": "CatMgrAuto@fnp.com",
+		    "firstName": "",
+		    "lastName": "",
+		    "password": "Password@123",
+		    "phonenumber": ""
+		},
+		"categoryAgentQA" : {
+		    "confirmPassword": "Password@123",
+		    "email": "CatAgntEAuto@fnp.com",
+		    "firstName": "",
+		    "lastName": "",
+		    "password": "Password@123",
+		    "phonenumber": ""
+		},
+		"categoryAgentViewQA" : {
+		    "confirmPassword": "Password@123",
+		    "email": "CatAgntVAuto@fnp.com",
+		    "firstName": "",
+		    "lastName": "",
+		    "password": "Password@123",
+		    "phonenumber": ""
+		},
+		"entityAdmin" : {
+		    "confirmPassword": "Password@123",
+		    "email": "entityAdmin",
+		    "firstName": "",
+		    "lastName": "",
+		    "password": "Password@123",
+		    "phonenumber": ""
+		},
+		"columbusSearchAdmin" : {
+		    "confirmPassword": "Password@123",
+		    "email": "fnp@fnp.com",
+		    "firstName": "",
+		    "lastName": "",
+		    "password": "Password@123",
+		    "phonenumber": ""
+		},
+		"columbusSearchManager" : {
+		    "confirmPassword": "Password@123",
+		    "email": "searchmgr@cybage.com",
+		    "firstName": "",
+		    "lastName": "",
+		    "password": "Password@123",
+		    "phonenumber": ""
+		},
+		"partyAdmin" : {
+		    "confirmPassword": "Password@123",
+		    "email": "fnp",
+		    "firstName": "",
+		    "lastName": "",
+		    "password": "Password@123",
+		    "phonenumber": ""
+		},
+		"partyViewOnly" : {
+		    "confirmPassword": "Password@123",
+		    "email": "viewonlyqa@fnp.com",
+		    "firstName": "",
+		    "lastName": "",
+		    "password": "Password@123",
+		    "phonenumber": ""
+		},
+		"allocExc" : {
+		    "firstName": "Alloc_Exe",
+		    "lastName": "AllocLast_Exe",
+		    "confirmPassword": "Password@123",
+		    "password": "Password@123",
+		    "email": "test_allocexc",
+		    "phonenumber": "9224268837"
+		},
+		"allocMgr" : {
+		    "firstName": "Alloc_Mgr",
+		    "lastName": "AllocLast_Mgr",
+		    "confirmPassword": "Password@123",
+		    "password": "Password@123",
+		    "email": "test_allocmgr",
+		    "phonenumber": "9224268837"
+		},
+		"kitchenAdmin" : {
+		    "confirmPassword": "Password@123",
+		    "email": "kitchenadmin@fnp.com",
+		    "firstName": "",
+		    "lastName": "",
+		    "password": "Password@123",
+		    "phonenumber": ""
+		},
+		"kitchenManager" : {
+		    "confirmPassword": "Password@123",
+		    "email": "kitchenmanager@fnp.com",
+		    "firstName": "",
+		    "lastName": "",
+		    "password": "Password@123",
+		    "phonenumber": ""
+		}	
+	}
+}

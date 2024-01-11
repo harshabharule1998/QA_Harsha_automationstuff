@@ -1,0 +1,20 @@
+{
+"lablePartyIdText" : "P_01157",
+"realtionshipTypeText" : "RELATIONSHIP",
+"newRelationshipText"  : "New Relationship",
+"relationshipLabelText" : "Relationship",
+"isAText" : "is A *",
+"inTheRoleOfText" : "In the Role of *",
+"partyToText" : " *",
+"fromPartyIdText" : "In the Role of *",
+"fromDateText" : "From Date *",
+"toDateText" : "To Date " ,
+"partyToTexts" : "Party to",
+"inTheRoleOfTexts" : "Party to",
+"continueButtonText" : "Continue",
+"cancelButtonText" : "Cancel",
+"confirmationMessageText" : "Relationship is updated",
+"updateButtonText" : "Update",
+"cancelsButtonText" : "Cancel"
+
+}

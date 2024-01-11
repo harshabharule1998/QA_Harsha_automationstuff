@@ -1,0 +1,20 @@
+{
+    "publisherConfigs": [
+        {
+            "id": "U_13970",
+            "publisherId": "P_01373",
+            "productAttributeFieldId": "U_00003",
+            "fieldStatus": "ACTIVE",
+            "alias": "Test"
+        },
+        {
+            "id": "U_13971",
+            "publisherId": "P_01373",
+            "productAttributeFieldId": "U_00002",
+            "fieldStatus": "ACTIVE",
+            "alias": "NAME"
+        }
+    ],
+    "publisherName": "api testing new",
+    "publisherId": "P_01373"
+}

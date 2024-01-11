@@ -1,0 +1,32 @@
+{
+	"users": {
+		"superAdmin": {
+			"password": "Password@123",
+			"email": "fnp@fnp.com",
+			"invalidPass": "Auto@1234",
+			"invalidUser": "auto@fnp.com",
+			"phoneNumber": "9665563533",
+			"confirmPassword": "Test123$"
+		},
+		"tagManager": {
+			"email": "managerFE@cybage.com",
+			"password": "Frontend@123"
+		},
+		"tagAgent": {
+			"confirmPassword": "Frontend@123",
+			"email": "agentFE@cybage.com"
+		},
+		"tagAgentView": {
+			"confirmPassword": "Frontend@123",
+			"email": "customerFE@cybage.com"
+		},
+		"partyViewOnly" : {
+		    "confirmPassword": "Cybage@123",
+		    "email": "viewonlyqa@fnp.com",
+		    "firstName": "",
+		    "lastName": "",
+		    "password": "Cybage@123",
+		    "phonenumber": ""
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+"distanceFromBaseGeoId": 23,
+"exceptionalFcs": [
+"FC_111",
+"FC_141"
+],
+"fromTime": "12:28",
+"futureDuration": 64,
+"geoId": "India",
+"nextDayDuration": 15,
+"sameDayDuration": 12,
+"thruTime": "20:08",
+"columnOption": "vendor_Id"
+}

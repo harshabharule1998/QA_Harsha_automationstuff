@@ -1,0 +1,41 @@
+[
+    {
+        "contactPurposeId": "S_70401",
+        "contactTypeId": "S_70201",
+        "addressContact": {
+            "address1": "kalyani nagar",
+            "cityId": "pune",
+            "countryId": "IND",
+            "pincode": "411014",
+            "toName": "Friend",
+            "address2": "",
+            "attentionName": "",
+            "doorbell": "",
+            "stateId": "IN-MH"
+        },
+        "fromDate": "2022-01-23T23:37:51",
+    	"primary": false,
+    	"throughDate": "2022-05-16T15:05:56"
+    },
+    {
+        "contactPurposeId": "S_70405",
+        "contactTypeId": "S_70202",
+        "emailContact": {
+            "email": ""
+        },
+        "fromDate": "2021-06-23T23:37:51",
+        "primary": false,
+        "throughDate": "2022-05-16T15:05:56"
+    },
+    {
+        "contactPurposeId": "S_70407",
+        "contactTypeId": "S_70203",
+        "phoneContact": {
+            "countryCodeId": "S_70903",
+            "phone": ""
+        },
+        "fromDate": "2022-03-23T23:37:51",
+        "primary": false,
+        "throughDate": "2022-08-16T15:05:56"
+    }
+]

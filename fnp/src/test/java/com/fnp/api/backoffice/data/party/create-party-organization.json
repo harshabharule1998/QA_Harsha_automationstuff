@@ -1,0 +1,28 @@
+{
+    "classifications": [
+        "S_70701"
+    ],
+    "contactCountryCodeId": null,
+    "contactEmail": null,
+    "contactPhone": null,
+    "designation": "worker",
+    "faxNumber": "31226299",
+    "franchiseName": "Car wash",
+    "isPrimaryRole": false,
+    "loginCountryCodeId": "S_70903",
+    "loginEmailId": "test12@fnp.com",
+    "loginPhoneNumber": "7038849777",
+    "name": "test",
+    "notAvailable": false,
+    "otherRoles": [
+        "S_00303"
+    ],
+    "partyType": "S_70002",
+    "role": "S_00302",
+    "roleNames": [
+        "vendor",
+        "delivery Boy"
+    ],
+    "taxNumber": "7564123",
+    "title": "Mr"
+}

@@ -1,0 +1,12 @@
+[
+    {
+        "attributesName": "PERSONALITY",
+        "sequenceNumber": 4,
+        "isEnabled": true
+    },
+    {
+        "attributesName": "CHARACTER",
+        "sequenceNumber": 2,
+        "isEnabled": true
+    }
+]

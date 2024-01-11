@@ -1,0 +1,15 @@
+[
+	{
+		"deliveryMode": "hd",
+		"geoGroupId": "Pune",
+		"geoId": "India",
+		"ratings": [
+		{
+		"pgId": "5",
+		"value": 4
+		}
+		],
+		"vendorId": "FC_101",
+		"vendorType": "FC"
+	}
+]

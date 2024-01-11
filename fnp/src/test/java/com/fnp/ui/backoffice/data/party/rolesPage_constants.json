@@ -1,0 +1,7 @@
+{
+	"titleText" : "Party Management",
+	"partyListNavigationUrl" : "parties/search/P_01171/show/roles",
+	"partyEditNavigationUrl" : "partyroles/P_01171/role/edit/S_70001",
+	"lablePartyIdText" : "P_01171",
+	"rolesTabText" : "ROLES"
+}

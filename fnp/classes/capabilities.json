@@ -1,0 +1,12 @@
+{
+	"win10Chrome86": {
+			"driverType" : "chromedriver",
+			"capabilities" : {
+				"os": "Windows",
+		    	"os_version": "10",
+		    	"browser": "Chrome",
+		    	"browser_version": "86.0",
+		    	"name": "Windows_10_Chrome_86"
+			}
+	}
+}

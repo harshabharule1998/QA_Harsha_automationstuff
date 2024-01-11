@@ -1,0 +1,34 @@
+[
+   [{
+    	"baseGeoId": "411001",
+    	"deliveryMode": "hd",
+    	"fromDate": "12-05-2022",
+    	"geoGroupId": "pune",
+    	"geoId": "india",
+    	"quotas": [
+      		{
+        		"pgId": "5",
+        		"value": 4
+      		}
+    	],
+    	"thruDate": "13-05-2022",
+    	"vendorId": "FC_108"
+	}],
+    [{
+	   "baseGeoId": "11735",
+		"deliveryMode": "hd",
+		"fromDate": "22-11-2022",
+		"geoGroupId": "Pune",
+		"geoId": "India",
+		"id": "61caf0ce61f5400500bacb9a",
+		"quotas": [
+		{
+		"pgId": "4",
+		"value": 60
+		}
+		],
+		"thruDate": "22-12-2022",
+		"vendorId": "FC_142"
+	}
+	]
+]

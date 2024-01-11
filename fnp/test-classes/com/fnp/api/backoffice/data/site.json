@@ -1,0 +1,11 @@
+{
+        "senderEmail" : "",
+        "senderName": "abc",
+        "subject" : "",
+	    "replyTo" : "",
+	    "cc" : "",
+	    "bcc" : "",
+	    "forgotPasswordEmailTemplate": "forgotPass",
+  		"isEnabled": true,
+  		"smsMessageTemplate": "demoMessage"
+}

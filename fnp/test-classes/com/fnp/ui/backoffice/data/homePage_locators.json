@@ -1,0 +1,5 @@
+{
+	"searchInput": "input[name=q]",
+	"searchButton": "input[name=btnK]",
+	"resultText": ".SPZz6b .qrShPb"
+}

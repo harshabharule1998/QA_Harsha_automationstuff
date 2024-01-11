@@ -1,0 +1,16 @@
+{
+	"loginText": "div.MuiGrid-root h6",
+	"usernameTextArea": "[id='standard']",
+	"loginButton": "[data-at-id='loginButton']",
+	"loginButtonText": "[class='MuiButton-label']",
+	"passwordTextArea": "[id='standard-password-input']",
+	"loginLogo": "[alt='Zeus']",
+	"invalidCredential": "[id='username-error']",
+	"forgotPasswordLink": "[data-at-id='forgotPassword']",
+	"resetPasswordButton": "[class='MuiButton-label']",
+	"backToLoginButton": "[data-at-id='backToLoginLink']",
+	"showPasswordButton": "[data-at-id='showPasswordButton']",
+	"userProfile": "[data-at-id='userProfile']",
+	"btnLogout": "[data-at-id='btnLogout'] span",
+	"userName": "[class*='MuiTypography-subtitle2-']"
+}

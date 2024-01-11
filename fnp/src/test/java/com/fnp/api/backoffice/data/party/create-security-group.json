@@ -1,0 +1,7 @@
+{
+    "permissions": [
+        "P_FEED_ACTL"
+    ],
+    "securityGroupCode": "QASec_Grp",
+    "securityGroupName": "Test Security Group"
+}

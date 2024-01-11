@@ -1,0 +1,38 @@
+[
+{
+  "conditions": [
+    {
+      "name": "updated_by",
+      "operation": "NotIn",
+      "type": "string",
+      "values": [
+        "anonymousUser"
+      ]
+    }
+  ]
+},
+{
+  "conditions": [
+    {
+      "name": "category_name",
+      "operation": "NotIn",
+      "type": "string",
+      "values": [
+        "Gifts"
+      ]
+    }
+  ]
+},
+{
+  "conditions": [
+    {
+      "name": "entity_type",
+      "operation": "NotIn",
+      "type": "string",
+      "values": [
+        "Category"
+      ]
+    }
+  ]
+}
+]

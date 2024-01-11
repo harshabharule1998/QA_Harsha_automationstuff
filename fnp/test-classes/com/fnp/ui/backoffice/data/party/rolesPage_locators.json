@@ -1,0 +1,23 @@
+{
+	"partyManagementText" : "div[id='main-content'] div div h5",
+ 	"partyTypeDropdownTxt" : "#partyTypeId",
+	"partyTypeDropdownMenu" : "[role='listbox'] li",
+	"typePartyId" : "input[id='partyId']",
+	"clickOnApply" : "button[type='submit']",
+	"clickOnPartyId" : "[filter='[object Object]'] tbody a",
+	"lableOfPartyId": "div.ra-input h5",
+ 	"rolesTab" : "a[path='roles']",
+ 	"rolesTabLabel" : "a[path='roles'] span",
+ 	"rolesTypeLabelList" : "div[partytype='Individual'] .ra-field span",
+ 	"rolesList" : "div[partytype='Individual'] .ra-field h6",
+ 	"editButton" : "div[partytype='Individual'] .ra-field button",
+ 	"editPageButtons" : ".simple-form button",
+ 	"addRoleButton" : "button[aria-label='ADD']",
+ 	"editPageButtonLabels" : ".simple-form button span",
+ 	"otherRolesInput" : ".simple-form label[for*='mui']",
+ 	"primaryRolesInput" : ".simple-form label[for*='primaryRole']",
+ 	"otherRolesOption" : "li[id*='option-0']",
+ 	"primaryRolesOption" : "li[id*='item-0']",
+ 	"otherRoleLabels" : ".simple-form div[class*='MuiPaper-elevation'] span",
+ 	"deleteRoleIcons" : ".simple-form div[class*='MuiPaper-elevation'] div[class*='MuiChip-deletable']:last-child svg"
+}

@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<HEAD>
+  <TITLE>Build report</TITLE>
+  <STYLE type="text/css">
+  .result {
+		border:1px solid #C0C0C0;
+		border-collapse:collapse;
+		padding:5px;
+	}
+	.result th {
+		border:1px solid #C0C0C0;
+		padding:5px;
+		background:#FEB654;
+	}
+	.result td {
+		border:1px solid #C0C0C0;
+		padding:5px;
+	}
+	</STYLE>
+</HEAD>
+<BODY>
+
+	<%
+		import groovy.json.JsonSlurper
+
+		def envOverrides = it.getAction("org.jenkinsci.plugins.workflow.cps.EnvActionImpl").getOverriddenEnvironment()
+		totalTests =  envOverrides["totalTests"]
+		totalPass =  envOverrides["totalPass"]
+		totalFail = envOverrides["totalFail"]
+		buildUrl = envOverrides["BUILD_URL"]
+	%>
+		<!-- BUILD RESULT -->
+		<table class="result">
+			<caption>Results Table</caption>
+			<thead>
+			<tr>
+				<th>Total</th>
+				<th>Passed</th>
+				<th>Failed</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td><%= ${totalTests} %></td>
+				<td><%= ${totalPass} %></td>
+				<td><%= ${totalFail} %></td>
+			</tr>
+			</tbody>
+		</table>
+
+		<br>
+		<br>
+		Please find attachment for reports.
+		<br>
+		<br>
+		For more details check : <%= ${buildUrl} %>
+	
+</BODY>

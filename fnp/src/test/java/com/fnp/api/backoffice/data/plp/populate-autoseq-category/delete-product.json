@@ -1,0 +1,17 @@
+[
+{
+  "message": "single product delete",
+  "productIdList": [
+	    "CAKE10035"
+  ]
+}
+,{
+  "message": "multiple product delete",
+  "productIdList": [
+	    "CAKE10035",
+	        "CAKE10042"
+  ]
+}
+
+
+]

@@ -1,0 +1,16 @@
+[{
+    "action": "populateproduct",
+    "categoryId": "10708517",
+    "config": {
+        "consideration": "category",
+        "deliveryModes": {
+            "courier": 2,
+            "digital": 1,
+            "handDelivery": 6,
+            "international": 1
+        },
+        "fromDate": "2021-09-23T14:32:54",
+        "lookbackperiod": 10,
+        "thruDate": "2021-12-13T14:32:54"
+    }
+}]

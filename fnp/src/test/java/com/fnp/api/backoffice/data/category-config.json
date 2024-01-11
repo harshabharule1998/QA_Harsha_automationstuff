@@ -1,0 +1,55 @@
+{
+	"comment": "This is patch comment",
+	"configSearch": {
+		"isIncludeInSearchDropdown": {
+			"inheritedValueFromBase": false,
+			"value": true
+		},
+		"isSearchable": {
+			"inheritedValueFromBase": false,
+			"value": true
+		}
+	},
+	"configSequence": {
+		"isDynamic": {
+			"inheritedValueFromBase": false,
+			"value": true
+		},
+		"isManualOverride": {
+			"inheritedValueFromBase": false,
+			"value": true
+		}
+	},
+	"contextSearch": {
+		"featureDisplayName": {
+			"inheritedValueFromBase": false,
+			"value": "H1"
+		},
+		"featureSearchSequence": {
+			"inheritedValueFromBase": false,
+			"value": 10
+		},
+		"isFeatureInSearch": {
+			"inheritedValueFromBase": false,
+			"value": true
+		}
+	},
+	"inheritSequencingAndProductFromBase": {
+		"inheritedValueFromBase": false,
+		"value": true
+	},
+	"isIncludeInSitemap": true,
+	"isIndependent": true,
+	"productMapping": {
+		"isDynamic": {
+			"inheritedValueFromBase": false,
+			"value": true
+		},
+		"isManualOverride": {
+			"inheritedValueFromBase": false,
+			"value": true
+		}
+	},
+	"propagationChildCategories": [],
+	"templateType": "PLP"
+}

@@ -1,0 +1,8 @@
+{
+    "distanceFromBaseGeoId": 10,
+    "domainId": "fnp.com",
+    "futureDuration": 1,
+    "nextDayDuration": 2,
+    "sameDayDuration": 3,
+    "vendorIds": []
+}

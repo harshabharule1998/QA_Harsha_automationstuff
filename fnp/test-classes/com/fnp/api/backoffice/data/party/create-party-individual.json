@@ -1,0 +1,28 @@
+{
+    "classifications": [
+        "S_70701"
+    ],
+    "contactCountryCodeId": null,
+    "contactEmail": null,
+    "contactPhone": null,
+    "dateOfAnniversary": "1981-04-22T12:29:26",
+    "dateOfBirth": "1950-03-15T23:42:03",
+    "gender": "Male",
+    "isPrimaryRole": true,
+    "loginCountryCodeId": "S_70903",
+    "loginEmailId": "test1@cybage.com",
+    "loginPhoneNumber": "7845986532",
+    "name": "Tester",
+    "notAvailable": false,
+    "otherRoles": [
+        "S_00301"
+    ],
+    "partyType": "S_70001",
+    "role": "S_00300",
+    "roleNames": [
+        "B2C",
+        "Employee"
+    ],
+    "title": "Mr",
+    "username": null
+}

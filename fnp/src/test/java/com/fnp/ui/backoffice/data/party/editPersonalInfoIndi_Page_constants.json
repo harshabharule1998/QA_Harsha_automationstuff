@@ -1,0 +1,15 @@
+{
+"lablePartyIdText" : "P_01157",
+"partyIdsText" : "Party ID",
+"partyStatusText" : "Party Status",
+"partyTypeStatus" : "Party Type",
+"partyClassifyText" : "Party Classification",
+"personalInfText" : "PERSONAL INFORMATION",
+"usernamesText" : "USERNAMES",
+"contactInfText" : "Contact Information",
+"rolesText" : "ROLES" ,
+"nameText" : "Gender",
+"genderText" : "",
+"dobText" : "Date Of Birth",
+"doaText" : "Date Of Anniversary"
+}

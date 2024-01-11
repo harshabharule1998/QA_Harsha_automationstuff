@@ -1,0 +1,16 @@
+{
+    "applyToBaseGeoIds": [
+        "411001"
+    ],
+    "applyToPgIds": [
+        "4"
+    ],
+    "configName": "bday12351",
+    "factorCarrierRating": 77,
+    "factorLeadHours": 46,
+    "factorManualRating": 72,
+    "factorShippingPrice": 67,
+    "fromDate": "22-01-2022",
+    "sourceRuleId": "61c2e6240ebf632ffedea56d",
+    "thruDate": "26-01-2022"
+}

@@ -1,0 +1,31 @@
+[
+    {
+	    "baseGeoId": "411006",
+	    "configName": "NewYear",
+	    "deliveryMode": "HD",
+	    "factorCarrierRating": 30,
+	    "factorLeadHours": 20,
+	    "factorManualRating":5,
+	    "factorShippingPrice": 4,
+	    "fromDate": "10-12-2022",
+	    "geoGroupId": "Pune",
+	    "geoId": "India",
+	    "pgId": "1",
+	    "thruDate": "11-12-2022"
+	},
+    [{
+        "baseGeoId": "411006",
+        "configName": "newyear22",
+        "deliveryMode": "HD",
+        "factorCarrierRating": 55,
+        "factorLeadHours": 11,
+        "factorManualRating": 11,
+        "factorShippingPrice": 10,
+        "fromDate": "12-12-2022",
+        "geoGroupId": "Pune",
+        "geoId": "India",
+        "id": "",
+        "pgId": "2",
+        "thruDate": "13-12-2022"
+	}]
+]

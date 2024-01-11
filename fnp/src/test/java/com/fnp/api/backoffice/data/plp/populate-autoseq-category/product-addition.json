@@ -1,0 +1,16 @@
+[[
+    {
+        "fromDate": "2022-01-12T06:29:39",
+        "productId": "CAKE10035",
+        "sequence": 2,
+        "thruDate": "2022-02-05T23:04:58"
+    }]
+   ,
+    [{
+        "fromDate": "abc",
+        "productId": "abcd",
+        "sequence": 1,
+        "thruDate": "pqr"
+    }
+]
+]

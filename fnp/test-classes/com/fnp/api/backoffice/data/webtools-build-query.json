@@ -1,0 +1,93 @@
+[{
+		"limit": "",
+		"queryPart": {
+			"condition": {},
+			"operation": "INSERT",
+			"parameters": [{
+					"name": "source_url",
+					"type": "string",
+					"value": "abc.com/WTDemo"
+				},   
+				{
+					"name": "target_url",
+					"type": "string",
+					"value": "abc.com/WTDemoRedirect"
+				},
+				{
+					"name": "entity_type",
+					"type": "string",
+					"value": "Product"
+				},
+				{
+					"name": "redirect_type",
+					"type": "string",
+					"value": "301"
+				},
+				{
+					"name": "is_enabled",
+					"type": "string",
+					"value": "true"
+				},
+				{
+					"name": "comment",
+					"type": "string",
+					"value": "test nmsnfnsfmn dfbdnf"
+				}
+			]
+		},
+		"queryType": "",
+		"rawQuery": ""
+	},
+	{
+		"limit": "",
+		"queryPart": {
+			"condition": {},
+			"operation": "SELECT",
+			"parameters": [
+
+			]
+		},
+		"queryType": "",   		
+		"rawQuery": ""
+	},
+	{
+		"limit": "",
+		"queryPart": {
+			"condition": {
+				"id": " "
+			},
+			"operation": "UPDATE",
+			"parameters": [{
+				"name": " ",
+				"type": " ",
+				"value": " "
+			}]
+		},
+		"queryType": "RAW_QUERY",
+		"rawQuery": "Select * from party_credential"
+	},
+	{
+		"limit": "",    
+		"queryPart": {
+			"condition": {
+				"id": "11"
+			},
+			"operation": "DELETE",
+			"parameters": []
+		},
+		"queryType": "",
+		"rawQuery": ""
+	},
+	{
+		"limit": 1,
+		"queryPart": {
+			"condition": {},
+			"operation": "",
+			"parameters": [
+
+			]
+		},
+		"queryType": "RAW_QUERY",
+		"rawQuery": "{'entity_type':'Product'}"
+	}
+]

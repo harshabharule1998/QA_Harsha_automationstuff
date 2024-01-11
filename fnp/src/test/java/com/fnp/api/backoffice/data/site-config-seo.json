@@ -1,0 +1,16 @@
+{
+  "customInstructionForRobot": "demo instruction",
+  "defaultRobots": "NoIndex, Follow",
+  "enableSubmissionToMetaRobots": " Yes",
+  "entitiesEnabledFor": "Home",
+  "hrefLangScope": "Global",
+  "includeCMSInSiteMap": "Blogs",
+  "includeLastModified": "Yes",
+  "locale": "en-sg",
+  "maximumFileSize": 10,
+  "maximumNoOFUrlsPerFile": 12,
+  "siteMapGenerationFrequency": "Hourly",
+  "siteMapPriority": 1,
+  "siteMapStartTime": "11:23:45",
+  "xmlSitemapHeader": "domesticcategory"
+}

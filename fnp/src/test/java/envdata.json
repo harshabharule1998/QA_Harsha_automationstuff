@@ -1,0 +1,37 @@
+[{
+  "qaui": {
+		    "ARB": {
+		      "backOfficeUrl": "abc.com",
+		      "partnerPortalUrl": "xyz.com",
+		      "corporateUrl": "pqr.com"
+		    },
+		    "SG": {
+		      "backOfficeUrl": "abc.com",
+		      "partnerPortalUrl": "xyz.com",
+		      "corporateUrl": "pqr.com"
+		    },
+		    "IND": {
+		      "backOfficeUrl": "https://adminportal-sit.fnp.com/",
+		      "partnerPortalUrl": "xyz.com",
+		      "corporateUrl": "pqr.com"
+		    }
+  },
+  "stageui": {
+			    "ARB": {
+			      "backOfficeUrl": "abc.com",
+			      "partnerPortalUrl": "xyz.com",
+			      "corporateUrl": "pqr.com"
+			    },
+			    "SG": {
+			      "backOfficeUrl": "abc.com",
+			      "partnerPortalUrl": "xyz.com",
+			      "corporateUrl": "pqr.com"
+			    },
+			    "IND": {
+			      "backOfficeUrl": "abc.com",
+			      "partnerPortalUrl": "xyz.com",
+			      "corporateUrl": "pqr.com"
+			    }
+  }
+}]
+ 

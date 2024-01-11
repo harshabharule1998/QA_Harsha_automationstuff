@@ -1,0 +1,18 @@
+[
+
+	{
+		"fieldName": "categoryName",
+		"fieldValue": "Send Christmas Gifts to Malaysia",
+		"operatorName": "EqualTo"
+	},
+	{
+		"fieldName": "categoryType",
+		"fieldValue": "MIXMATCH_CATEGORY",
+		"operatorName": "EqualTo"
+	},
+	{
+		"fieldName": "categoryUrl",
+		"fieldValue": "fnp.com/malaysia/gifts/christmas",
+		"operatorName": "EqualTo"
+	}
+]

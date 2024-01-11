@@ -1,0 +1,17 @@
+{
+  "applyToBaseGeoIds": [
+    "411001"
+  ],
+  "applyToPgIds": [
+    "4"
+  ],
+  "configName": "Diwali",
+  "factorCapacityDone": 50,
+  "factorDistance": 50,
+  "factorFCRating": 50,
+  "factorManualRating": 50,
+  "factorPrice": 50,
+  "fromDate": "01-01-2023",
+  "sourceRuleId": "619fd22d42b4340a28a05000",
+  "thruDate": "15-01-2023"
+}

@@ -1,0 +1,14 @@
+{
+    "fromDate": "2022-01-13T08:28:34",
+    "productsequence": [
+        {
+            "productId": "ITNL106773",
+            "sequence": 2
+        },
+        {
+            "productId": "ITNL106767",
+            "sequence": 2
+        }
+    ],
+    "thruDate": "2022-02-13T08:28:34"
+}

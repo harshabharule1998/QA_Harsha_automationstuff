@@ -1,0 +1,17 @@
+{
+	"insert": {
+		"geoId": "india",
+		"productTypeId": "white-forest-cakes"
+	},
+
+	"patch": {
+		"isEnabled": "false"
+	},
+	"attribute":
+	[{
+	"attributesName": "PERSONALITY",
+    "attributesType": "feature",
+    "isEnabled": false,
+    "sequenceNumber": 2
+	}]
+}

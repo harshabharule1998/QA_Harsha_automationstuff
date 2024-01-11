@@ -1,0 +1,12 @@
+{
+	"bcc": "string",
+	"cc": "string",
+ 	"contentType": "Email",
+	"header": "generalContact",
+	"isEnabled": true,
+	"replyTo": "string",
+	"senderEmail": "string",
+	"senderName": "admin",
+	"subject": "string",
+	"template": "Testqa"
+}

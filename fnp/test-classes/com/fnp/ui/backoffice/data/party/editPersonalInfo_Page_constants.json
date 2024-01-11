@@ -1,0 +1,20 @@
+{
+"lablePartyIdText" : "C_01311",
+"realtionshipTypeText" : "RELATIONSHIP",
+"newRelationshipText"  : "New Relationship",
+"relationshipLabelText" : "Relationship",
+"partyIdsText" : "Party ID",
+"partyStatusText" : "Party Status",
+"partyTypeStatus" : "Party Type",
+"partyClassifyText" : "Party Classification",
+"personalInfText" : "PERSONAL INFORMATION",
+"usernamesText" : "USERNAMES",
+"contactInfText" : "Contact Information",
+"relationshipText" : "RELATIONSHIP",
+"rolesText" : "ROLES" ,
+"contactPersonNameText" : "Contact Person Name",
+"designationText" : "Designation",
+"organizationText" : "Organization Name",
+"taxVatText" : "Tax/Vat Number",
+"faxNoText" : "Fax Number"
+}

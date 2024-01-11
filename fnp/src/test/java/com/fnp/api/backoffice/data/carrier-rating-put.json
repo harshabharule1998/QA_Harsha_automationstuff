@@ -1,0 +1,10 @@
+[{
+    "deliveryMode": "Courier",
+    "rating": 4,
+    "vendorId": "Carrier_101"
+},
+{
+    "deliveryMode": "Courier",
+    "rating": 2,
+    "vendorId": "Carrier_102"
+}]

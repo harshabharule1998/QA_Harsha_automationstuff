@@ -1,0 +1,20 @@
+{
+    "andConditions": [
+        {
+            "orConditions": [
+                {
+                    "fieldId": "U_00001",
+                    "fieldOperand": "false",
+                    "fieldOperator": "",
+                    "fieldName": "availability"
+                }
+            ]
+        }
+    ],
+    "campaign": {
+        "campaignDomainId": "fnp.com",
+        "currencyId": "INR",
+        "geoId": "india",
+        "publisherId": "P_01418"
+    }
+}

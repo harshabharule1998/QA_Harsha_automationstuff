@@ -1,0 +1,31 @@
+[{
+    "categoryContentName": "test1",
+    "contentDetails": "test",      
+    "contentLanguage": "ENGLISH",
+    "contentId": "226696",
+    "contentName": "test",
+    "contentTypeId": "227846",    
+    "isDefault": true,
+    "language": "ENGLISH",
+    "propagateCategory": []
+},
+
+{
+  "comment": "update REV2-4252",
+  "contentId": "2704870",
+  "contentTypeResponse": {
+    "contentTypeName": "WQWWQW",
+    "id": "QWQW"
+  },
+  "default": true,
+  "enabled": true,
+  "fromDate": "2021-10-20",
+  "id": "313807",
+  "inherited": true,
+  "language": "string",
+  "propagateCategoryIds": [
+    "string"
+  ],
+  "thruDate": "2022-01-20"
+}
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "fieldName": "name",
+        "fieldDisplayName": "Product name",
+        "fieldVal": 10
+    },
+    {
+        "fieldName": "product_id",
+        "fieldDisplayName": "Product Id",
+        "fieldVal": 0
+    },
+    {
+        "fieldName": "sku",
+        "fieldDisplayName": "Product SKU",
+        "fieldVal": 10
+    },
+    {
+        "fieldName": "long_description",
+        "fieldDisplayName": "Product Long Description",
+        "fieldVal": 10
+    },
+    {
+        "fieldName": "description",
+        "fieldDisplayName": "Product Short Description",
+        "fieldVal": 5
+    },
+    {
+        "fieldName": "brand_name",
+        "fieldDisplayName": "Brand",
+        "fieldVal": 5
+    },
+    {
+        "fieldName": "city",
+        "fieldDisplayName": "City",
+        "fieldVal": 5
+    },
+    {
+        "fieldName": "occasion",
+        "fieldDisplayName": "Relevancy of Occasion Tag",
+        "fieldVal": 5
+    },
+    {
+        "fieldName": "recipient_tags",
+        "fieldDisplayName": "Relevancy of Recipient Tag",
+        "fieldVal": 5
+    },
+    {
+        "fieldName": "product_type_tags",
+        "fieldDisplayName": "Product type",
+        "fieldVal": 5
+    },
+    {
+        "fieldName": "destination_country",
+        "fieldDisplayName": "Destination Country",
+        "fieldVal": 5
+    },
+    {
+        "fieldName": "feature_data",
+        "fieldDisplayName": "Features",
+        "fieldVal": 5
+    },
+    {
+        "fieldName": "internal_name",
+        "fieldDisplayName": "Internal Name",
+        "fieldVal": 5
+    },
+    {
+        "fieldName": "conversion_rate",
+        "fieldDisplayName": "Conversion Rate",
+        "fieldVal": 5
+    },
+    {
+        "fieldName": "click_thru_rate",
+        "fieldDisplayName": "Click Through Rate",
+        "fieldVal": 5
+    },
+    {
+        "fieldName": "total_viewed",
+        "fieldDisplayName": "Impression",
+        "fieldVal": 5
+    },
+    {
+        "fieldName": "listprice_inr",
+        "fieldDisplayName": "Website Price",
+        "fieldVal": 10
+    }
+]
